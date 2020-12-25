@@ -7,7 +7,6 @@ namespace ConsoleApp
        public static void Main()
         {
             Console.WriteLine("Hello World! from Sandeep");
-            22
         }
     }
 }
